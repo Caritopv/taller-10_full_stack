@@ -8,7 +8,7 @@ echo " digite el primer  numero  \n";
 $n1= readline();
  echo " digite el segundo  numero  \n";
 $n2= readline();
-echo " La suma de los numeros \n";
+echo " La suma de los numeros es \n";
 $result = $n1+$n2;
 echo $result;
 ?>
