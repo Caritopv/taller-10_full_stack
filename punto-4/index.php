@@ -2,7 +2,7 @@
 // INPUTS
 $name = "";
 $lastName = "";
-
+echo "TALLER 10 punto-4!\n";
 // PROCESS
 echo "Digite su nombre  \n";
 $name= readline();
