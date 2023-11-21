@@ -4,7 +4,7 @@ $n1=0;
 $n2=0;
 $operation = 0;
 $result=0;
-
+echo "TALLER 10 Punto-7 \n";
 //PROCESO
 echo "Digite el primer numero \n";
 $n1 = readline();
@@ -29,6 +29,6 @@ switch ($operation) {
        break;
   
   default:
-
+      echo "Operacion no valida\n";
   }
 echo "El resultado de la operacion es:\n".($result);
