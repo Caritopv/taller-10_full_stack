@@ -33,6 +33,6 @@ switch (strtoupper($membershipType)) {
       $totalPay *= 0.95;
        break;
   default:
-
+  echo "No tiene descuento \n";
   }
 echo "Valor a pagar: $".number_format ($totalPay,2,",",".");
