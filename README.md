@@ -44,5 +44,6 @@
  
 <h2>Punto 14: Revision de contraseña</h2>
  <img  src="./public/images/punto-14.png" alt="Punto 14">
- 
-<h2>Punto 15: Selección de operación aritmética usando funciones</h2>rm ori
+
+<h2>Punto 15: Selección de operación aritmética usando funciones</h2>
+<img  src="./public/images/punto-15.png" alt="Punto 15">
